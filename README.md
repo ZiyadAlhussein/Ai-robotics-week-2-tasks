@@ -2,6 +2,7 @@
 **Task 1: Installing Ubunto and ROS in a virtual machine**  
 
 **1. Install Oracle VM virtual box: https://www.virtualbox.org/wiki/Downloads**
+
 choose the latest version and click on **Windows Hosts** 
 
 ![image](https://user-images.githubusercontent.com/108147030/180487488-dcfe3d5d-ff50-417b-8be7-dbb464b2acc8.png)
@@ -21,7 +22,16 @@ Choose 64-bit PC (AMD64) desktop image
   ![image](https://user-images.githubusercontent.com/108147030/180488658-8338fafa-5aa5-4089-aa31-28d8b7765748.png)
   
   3) Choose the maximum amount of memory from the green bar (do not pass through the green bar to the orange/red) then click Next:
+    ![image](https://user-images.githubusercontent.com/108147030/180489550-13e3d47d-ee61-4beb-990d-19d87fa1fde6.png)
     
+  4) Keep clicking Next until you get to the virtual hard disk size, its recommend to have it at 32GB then click on create:
+  ![image](https://user-images.githubusercontent.com/108147030/180489852-35507ef6-acc8-4874-a480-784006d84575.png)
+  
+  5) Now click on your virtal machine then click on settings:
+    
+  6)
+
+
     i. Breadboard (small)
     
     ii. Arduino uno r3
@@ -73,5 +83,5 @@ void loop()
       
 }  
   ```
-  
+ 
 5) Click on start Simulation if you click on the push button the motor will start working and if you click on the push button again the motor will stop working.
