@@ -25,7 +25,7 @@ Choose 64-bit PC (AMD64) desktop image
   
   3) Choose the maximum amount of memory from the green bar (do not pass through the green bar to the orange/red) then click Next:
   
-    ![image](https://user-images.githubusercontent.com/108147030/180489550-13e3d47d-ee61-4beb-990d-19d87fa1fde6.png)
+![image](https://user-images.githubusercontent.com/108147030/180491262-b0bab43a-12d2-4657-bb6d-0759e8ae4767.png)
     
   4) Keep clicking Next until you get to the virtual hard disk size, its recommend to have it at 32GB then click on create:
   
@@ -33,7 +33,7 @@ Choose 64-bit PC (AMD64) desktop image
   
   5) Now click on your virtual machine then click on settings:
     
-    ![image](https://user-images.githubusercontent.com/108147030/180490460-5ef1ce76-c402-4ed4-aa99-a018e2039fef.png)
+![image](https://user-images.githubusercontent.com/108147030/180491341-404aa885-78c6-488e-9b0e-54db03b0ca12.png)
 
   6) From settings go to system > processor and choose the maximum amout of CPU with only the green bar:
   
