@@ -43,28 +43,39 @@ Choose 64-bit PC (AMD64) desktop image
 
   ![image](https://user-images.githubusercontent.com/108147030/180491576-bb3a1ae2-bbd4-4829-8dda-ebc5c8e684f2.png)
   
-  8) Go to storage settings and click on the "Empty" CD and then from Attributes click on the CD symbol and click on "choose a disk file..."  
+  8) Go to storage settings and click on the "Empty" CD and then from Attributes click on the CD symbol and click on "choose a disk file..." from there you can choose the ISO file that is Ubunto 16.04 that was downloaded before:
 
+![image](https://user-images.githubusercontent.com/108147030/180494397-14baa016-1d5d-4e56-8ca6-92c44f00dbbe.png)
 
-
-
-
-    i. Breadboard (small)
-    
-    ii. Arduino uno r3
-    
-    iii. DC Motor
-    
-    iv. npn transistor
-    
-    v. two resistors
-    
-    vi. push button
+  9) Finally you can now run your virtual machine and follow through the installation guide for Ubunto, after installing Ubunto, open terminal and run each of the following comands to install ROS: 
   
-  3) Connect the circuit as shown below:
-    
-  4) use the following code to simulate the ON/OFF button circuit:
  
+
+    i. sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+    
+    ii. sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+    
+    iii. sudo apt-get update
+    
+    iv. sudo apt-get install ros-kinetic-desktop-full
+    
+    v. apt-cache search ros-kinetic
+    
+    vi. echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc
+    
+    vii. source ~/.bashrc
+    
+    viii. sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential
+    
+    ix. sudo apt install python-rosdep
+    
+    x. sudo rosdep init
+
+    xi. rosdep update
+
+    xii. sudo apt-get install ros-noetic-catkin
+
+
 ```ruby
 int preState = 0;
 int ledState = 0;
@@ -99,4 +110,3 @@ void loop()
 }  
   ```
  
-5) Click on start Simulation if you click on the push button the motor will start working and if you click on the push button again the motor will stop working.
