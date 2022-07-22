@@ -47,7 +47,7 @@ Choose 64-bit PC (AMD64) desktop image
 
 ![image](https://user-images.githubusercontent.com/108147030/180494397-14baa016-1d5d-4e56-8ca6-92c44f00dbbe.png)
 
-  9) Finally you can now run your virtual machine and follow through the installation guide for Ubunto, after installing Ubunto, open terminal and run each of the following comands to install ROS: 
+  9) Finally you can now run your virtual machine and follow through the installation guide for Ubunto, after installing Ubunto, open terminal and run each of the following commands to install ROS: 
   
  
 
