@@ -38,6 +38,13 @@ Choose 64-bit PC (AMD64) desktop image
   6) From settings go to system > processor and choose the maximum amout of CPU with only the green bar:
   
  ![image](https://user-images.githubusercontent.com/108147030/180490984-8c9242e9-004c-4412-83af-34dd1a61ce0a.png)
+ 
+  7) Go to display settings and choose the maximum amount of video memory:
+
+  ![image](https://user-images.githubusercontent.com/108147030/180491576-bb3a1ae2-bbd4-4829-8dda-ebc5c8e684f2.png)
+  
+  8) Go to storage settings and click on the "Empty" CD and then from Attributes click on the CD symbol and click on "choose a disk file..."  
+
 
 
 
