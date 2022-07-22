@@ -8,6 +8,7 @@ choose the latest version and click on Windows Hosts
 ![image](https://user-images.githubusercontent.com/108147030/180487488-dcfe3d5d-ff50-417b-8be7-dbb464b2acc8.png)
 
 **2. Download Ubuntu 16.04.7 LTS (Xenial Xerus): https://releases.ubuntu.com/16.04/**
+
 Choose 64-bit PC (AMD64) desktop image
 
 ![image](https://user-images.githubusercontent.com/108147030/180487843-c348c078-a376-4c49-b17f-3ef900461afd.png)
@@ -36,7 +37,8 @@ Choose 64-bit PC (AMD64) desktop image
 
   6) From settings go to system > processor and choose the maximum amout of CPU with only the green bar:
   
- 
+ ![image](https://user-images.githubusercontent.com/108147030/180490984-8c9242e9-004c-4412-83af-34dd1a61ce0a.png)
+
 
 
 
@@ -53,9 +55,7 @@ Choose 64-bit PC (AMD64) desktop image
     vi. push button
   
   3) Connect the circuit as shown below:
-  
-  ![image](https://user-images.githubusercontent.com/108147030/180041768-2116069e-2918-461d-822f-ad7c5efea9c5.png)
-  
+    
   4) use the following code to simulate the ON/OFF button circuit:
  
 ```ruby
