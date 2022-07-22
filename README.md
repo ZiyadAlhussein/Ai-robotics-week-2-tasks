@@ -3,7 +3,7 @@
 
 **1. Install Oracle VM virtual box: https://www.virtualbox.org/wiki/Downloads**
 
-choose the latest version and click on **Windows Hosts** 
+choose the latest version and click on Windows Hosts 
 
 ![image](https://user-images.githubusercontent.com/108147030/180487488-dcfe3d5d-ff50-417b-8be7-dbb464b2acc8.png)
 
@@ -19,17 +19,25 @@ Choose 64-bit PC (AMD64) desktop image
   ![image](https://user-images.githubusercontent.com/108147030/180488271-dcc03e6b-ce42-49a8-ac4c-59909567d162.png)
 
   2) Choose the name and destination folder after that click on Next: 
+  
   ![image](https://user-images.githubusercontent.com/108147030/180488658-8338fafa-5aa5-4089-aa31-28d8b7765748.png)
   
   3) Choose the maximum amount of memory from the green bar (do not pass through the green bar to the orange/red) then click Next:
+  
     ![image](https://user-images.githubusercontent.com/108147030/180489550-13e3d47d-ee61-4beb-990d-19d87fa1fde6.png)
     
   4) Keep clicking Next until you get to the virtual hard disk size, its recommend to have it at 32GB then click on create:
+  
   ![image](https://user-images.githubusercontent.com/108147030/180489852-35507ef6-acc8-4874-a480-784006d84575.png)
   
-  5) Now click on your virtal machine then click on settings:
+  5) Now click on your virtual machine then click on settings:
     
-  6)
+    ![image](https://user-images.githubusercontent.com/108147030/180490460-5ef1ce76-c402-4ed4-aa99-a018e2039fef.png)
+
+  6) From settings go to system > processor and choose the maximum amout of CPU with only the green bar:
+  
+ 
+
 
 
     i. Breadboard (small)
